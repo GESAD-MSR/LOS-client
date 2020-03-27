@@ -3,9 +3,9 @@
     <q-header>
       <q-toolbar class="bg-grey-2">
         <q-toolbar-title class="q-pa-lg text-weight-bold text-uppercase">
-          <span class="text-grey-10">Stack</span>
-          <span class="text-orange-9 ">Over</span>
           <span class="text-grey-10">Learning</span>
+          <span class="text-orange-9 ">Over</span>
+          <span class="text-grey-10">Stack</span>
         </q-toolbar-title>
 
         <q-btn
